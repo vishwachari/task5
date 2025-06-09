@@ -49,5 +49,4 @@ To extract meaningful insights from the Titanic dataset using exploratory data a
 Repository created as part of Data Analyst Internship Task 5.  
 All deliverables are submitted through the provided form.
 
-[🔗 Titanic Dataset on Kaggle](https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com)
 
